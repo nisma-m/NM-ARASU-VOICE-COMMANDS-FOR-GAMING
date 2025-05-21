@@ -1,0 +1,19 @@
+Audio file [1]: stone.wav
+Your move: rock
+Computer move: scissors
+Winner: player
+
+Audio file [2]: reload.wav
+Command recognized: reload
+
+Audio file [3]: write.wav
+Command not recognized or not a valid game command. Ignored.
+
+Audio file [4]: stone.wav
+Your move: rock
+Computer move: scissors
+Winner: player
+
+Audio file [5]: reload.wav
+Command recognized: reload
+
